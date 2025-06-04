@@ -1,0 +1,4 @@
+openai>=1.0.0  # openai 라이브러리 v1.0.0 이상 필수
+pandas
+openpyxl
+streamlit      # Streamlit Cloud 앱이므로 필요
